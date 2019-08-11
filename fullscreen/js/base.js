@@ -57,7 +57,7 @@
         }, false);
     }
 
-    var marioVideo = document.getElementById("mario-video")
+    var marioVideo = document.getElementById("mario-video"),
         videoFullscreen = document.getElementById("video-fullscreen");
 
     if (marioVideo && videoFullscreen) {
